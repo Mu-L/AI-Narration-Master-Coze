@@ -49,11 +49,11 @@
 
 1. 登录 [Coze 官网](https://www.coze.cn/)，在左侧“模板商店”搜索关键词 **“AI电影解说”**。
   <img width="2612" height="1312" alt="第一步" src="https://github.com/user-attachments/assets/82e005be-f47a-431c-a878-ca3ae3a5f1ec" />
-    *
+<br>
 
 2. 点击 **[复制]** 按钮，选择您的工作空间，并将其重命名（例如：`AI电影解说(自用)`）。
 <img width="2308" height="1464" alt="点击复制" src="https://github.com/user-attachments/assets/67244f56-a39f-4bd9-8487-c29b12414c67" />
-    *
+<br>
    
 ### 第二步：配置数据库 (⚠️ 核心步骤)
 
@@ -63,19 +63,19 @@
     * 本系统依赖 MySQL 存储用户数据。
     * 请下载仓库内的 `coze_database_script.sql` 脚本，导入你的数据库。
     * 在 Coze 的“数据”栏目中，填入你的数据库账号密码即可。
-    * 
+<br>
 <img width="2236" height="1354" alt="数据库配置" src="https://github.com/user-attachments/assets/1b04926f-a616-4a87-9875-31b147f75007" />
-      
+<br>     
 * **2. 品牌自定义 (OEM)**：
     * 在“用户界面”中，将所有客服/收款二维码 **替换为你自己的图片**。
     * 修改应用名称和 Logo，打造你的专属品牌。
-    * 
+<br>
   <img width="2802" height="1336" alt="素材替换" src="https://github.com/user-attachments/assets/1bde623d-58bb-4f76-897f-b857a0f62f85" />
 
 ### 第三步：发布运营
 配置完成后，点击 **[发布]** 至扣子商店或微信/抖音小程序，即可开始你的商业化运营。
 <img width="2838" height="1496" alt="发布" src="https://github.com/user-attachments/assets/6d6d5a6a-8bb1-41d2-8586-169e39cfc46f" />
-
+<br>
 1. **发布**：点击右上角“发布”，选择发布到 **“扣子商店”**，分类推荐选择 **“效率工具”**。
 2. **审核**：等待平台审核通过后，用户即可在社区搜索并使用您的应用。
 
