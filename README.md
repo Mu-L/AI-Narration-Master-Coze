@@ -58,19 +58,22 @@
 为了让系统正常运行并归你所有，需两步简单配置：
 
 * **1. 连接数据库**：
-  <img width="2236" height="1354" alt="数据库配置" src="https://github.com/user-attachments/assets/1b04926f-a616-4a87-9875-31b147f75007" />
     * 本系统依赖 MySQL 存储用户数据。
     * 请下载仓库内的 `coze_database_script.sql` 脚本，导入你的数据库。
     * 在 Coze 的“数据”栏目中，填入你的数据库账号密码即可。
+      
+  <img width="2236" height="1354" alt="数据库配置" src="https://github.com/user-attachments/assets/1b04926f-a616-4a87-9875-31b147f75007" />
+      
 * **2. 品牌自定义 (OEM)**：
-   <img width="2802" height="1336" alt="素材替换" src="https://github.com/user-attachments/assets/1bde623d-58bb-4f76-897f-b857a0f62f85" />
     * 在“用户界面”中，将所有客服/收款二维码 **替换为你自己的图片**。
     * 修改应用名称和 Logo，打造你的专属品牌。
+      
+  <img width="2802" height="1336" alt="素材替换" src="https://github.com/user-attachments/assets/1bde623d-58bb-4f76-897f-b857a0f62f85" />
 
 ### 第三步：发布运营
-
 配置完成后，点击 **[发布]** 至扣子商店或微信/抖音小程序，即可开始你的商业化运营。
 <img width="2838" height="1496" alt="发布" src="https://github.com/user-attachments/assets/6d6d5a6a-8bb1-41d2-8586-169e39cfc46f" />
+
 1. **发布**：点击右上角“发布”，选择发布到 **“扣子商店”**，分类推荐选择 **“效率工具”**。
 2. **审核**：等待平台审核通过后，用户即可在社区搜索并使用您的应用。
 
